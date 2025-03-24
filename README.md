@@ -1,8 +1,34 @@
-# React + Vite
+🎲 Tenzies Game
+A fun and addictive dice game built with React.js and styled with CSS. Roll until all dice show the same number. You can hold dice to prevent them from being re-rolled. The game tracks your number of rolls and time taken to win.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+-Roll 10 dice until they're all the same
 
-Currently, two official plugins are available:
+-Click dice to "hold" their value
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-Timer and roll counter
+
+-Win detection and celebration 🎉
+
+🛠️ Built With
+React.js – Functional components + hooks
+
+CSS – Custom styling
+
+nanoid – Unique IDs for dice
+
+🧠 How to Play
+Click Roll to generate dice values.
+
+Click on individual dice to hold their value.
+
+Continue rolling until all dice show the same number.
+
+Try to win in the fewest rolls and shortest time!
+
+🏆 Coming Soon
+Leaderboard (local storage)
+
+Dark mode toggle
+
+Animated dice rolls
