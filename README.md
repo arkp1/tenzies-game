@@ -2,6 +2,8 @@
 A fun and addictive dice game built with React.js and styled with CSS. Roll until all dice show the same number. You can hold dice to prevent them from being re-rolled. The game tracks your number of rolls and time taken to win.
 
 🚀 Features
+
+
 -Roll 10 dice until they're all the same
 
 -Click dice to "hold" their value
