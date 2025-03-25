@@ -24,13 +24,13 @@ nanoid – Unique IDs for dice
 🧠 How to Play
 
 
-Click Roll to generate dice values.
+- Click Roll to generate dice values.
 
-Click on individual dice to hold their value.
+- Click on individual dice to hold their value.
 
-Continue rolling until all dice show the same number.
+- Continue rolling until all dice show the same number.
 
-Try to win in the fewest rolls and shortest time!
+- Try to win in the fewest rolls and shortest time!
 
 🏆 Coming Soon
 
