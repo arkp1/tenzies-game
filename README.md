@@ -12,7 +12,7 @@ A fun and addictive dice game built with React.js and styled with CSS. Roll unti
 
 - Win detection and celebration 🎉
 
-🛠️ Built With
+🛠️ Built With  
 
 
 React.js – Functional components + hooks
